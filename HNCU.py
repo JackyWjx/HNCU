@@ -4,8 +4,8 @@ from lxml import etree
 from bs4 import BeautifulSoup
 
 login_url='http://********/zfca/login'
-main_url='http://********/xs_main.aspx?xh=2016051617'
-selecj_url='http://********/xscj.aspx?xh=2016051617&xm=%CD%F5%BC%AA%CF%E9&gnmkdm=N121604'
+main_url='http://********/xs_main.aspx?xh=***'
+selecj_url='http://********/xscj.aspx?xh=***&xm=***&gnmkdm=N121604'
 username='********'
 password='********'
 header={'Refer': 'http://********/zfca/login',
